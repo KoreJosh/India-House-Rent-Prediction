@@ -1,4 +1,5 @@
 # India-House-Rent-Prediction
+![](House Rent.jpg)
 
 ## Project Overview
 This project focus on using certain features such as Size of house, Furnishing type, Area type(carpet area, built area), Tenant Type, number of bathrooms to predict the sellig price of the House.
