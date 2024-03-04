@@ -1,5 +1,5 @@
 # India-House-Rent-Prediction
-![]![Houses](https://github.com/KoreJosh/India-House-Rent-Prediction/assets/97749198/57d8a102-02cf-4047-b348-c42339cc0575)
+![](https://github.com/KoreJosh/India-House-Rent-Prediction/assets/97749198/57d8a102-02cf-4047-b348-c42339cc0575)
 
 ## Project Overview
 This project focus on using certain features such as Size of house, Furnishing type, Area type(carpet area, built area), Tenant Type, number of bathrooms to predict the sellig price of the House.
